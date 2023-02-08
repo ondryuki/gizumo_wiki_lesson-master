@@ -1,8 +1,3 @@
-<!-- YO:router-viewタグしかなかったので追記していきます。
-<template>
-  <router-view />
-</template> -->
-
 <template>
   <div class="categories">
     <app-category-post
